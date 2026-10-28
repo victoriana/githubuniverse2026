@@ -1,16 +1,22 @@
-# # GitHub Universe 2026
+# GitHub Universe 2026 Notes
 
-This repository contains notes, demos, and small projects built while attending the GitHub Universe 2026 Insider Stream.
+Virtual attendance, Oct 28–29 2026
 
-## Key Topics
-- Copilot Configuration
-- MCP Server Authorization
-- AI Agent Orchestration
+## Day 1 — Wed Oct 28
 
-## Progress
-- [ ] Attend Keynote (Oct 28)
-- [ ] Build Demo 1
-- [ ] Build Demo 2
+### Opening Keynote — 9:00 AM PDT
+**Speaker:** 
+
+Notes:
 
 ---
-*Built by Ravi Basawa (@victoriana)*
+
+### The view from the labs: What's next for AI-assisted development
+**Speaker:** Cara Phillips (Anthropic), Rohan Varma (OpenAI), Kate Catlin (GitHub)
+
+Notes:
+
+---
+
+### Stop prompting, start delegating: Configure Copilot to own the work
+**Speaker:** Ken
