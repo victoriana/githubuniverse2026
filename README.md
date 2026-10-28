@@ -9,9 +9,10 @@ Virtual attendance, Oct 28–29 2026
 ### Speakers: , Jay Parikh Executive Vice President, CoreAI; Microsoft, April Leonard VP, Engineering, GitHub; Cassidy Williams Sr. Director, Developer Advocacy, GitHub; Damian Brady Staff Developer Advocate, GitHub; Burke Holland Vibe Coder, Microsoft
 
 Notes
+"""
 grrtggfgfgfgh
 hgdhg
-
+"""
 
 ---
 
