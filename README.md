@@ -2,6 +2,8 @@
 
 Virtual attendance, Oct 28–29 2026
 
+More to come - no need to re-summarize shall take nuggets of useful info from https://githubuniverse.com/
+
 ## Day 1 — Wed Oct 28
 
 ### Opening Keynote — Wednesday, Oct 28 9:00 AM - 9:45 AM PDT Main Stage @ Festival Pavilion
